@@ -25,7 +25,7 @@ body{
 
 }
 
-.celular{
+section#celular{
     background-image: url('../imagens/frame-iphone.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -36,4 +36,12 @@ body{
     height: 627px;
     width: 311px;
     
+}
+
+ #tela{
+    position: absolute;
+    top: 82px;
+    left: 25px;
+    width: 262px;
+    height: 466px;
 }
